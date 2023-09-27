@@ -1,0 +1,57 @@
+* 
+
+h1{
+     text-align: center;
+     color: rgb(17, 17, 16);
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 50px;
+     
+     
+}
+
+body{
+
+     background-image: url(back.jpg.webp);
+     background-size: cover;
+    
+
+
+
+}
+
+li{
+     text-align: center;
+     color: rgb(100, 92, 97);
+     font-size: 30px;
+
+}
+
+video{
+
+
+     
+     border: 10px solid #d30e0e;
+     
+   
+}
+.spinner {
+    width: 80px;
+    height: 80px;
+    border: 20px solid rgba(225, 225, 225, 0.1);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+
+}
+@keyframes spin {
+  to {
+
+     transform: rotate(360deg);
+}
+
+}
+
+     
+     
+     
+
+
